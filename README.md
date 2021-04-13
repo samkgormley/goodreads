@@ -12,7 +12,7 @@ You can export your own Goodreads data to replicate my methodology by following 
 
 ## Outputs
 The completed Tableau dashboard can be found on [Tableau Public](https://public.tableau.com/profile/sam.gormley#!/vizhome/goodreads_16153181076770/Goodreads).
-A screenshot of the dashboard is also located in this repository [here](goodreads.md)
+A screenshot of the dashboard is also located in this repository [here](goodreads.md).
 
 ## To-Dos
 - [ ] Figure out if author gender data can be sourced
